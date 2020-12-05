@@ -1,0 +1,98 @@
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\MySql.Data.dll
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\Google.Protobuf.dll
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\Renci.SshNet.dll
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\BouncyCastle.Crypto.dll
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\MySql.Data.xml
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojResolveAssemblyReference.cache
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Form1.resources
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.Cache
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+E:\RECUPERADOS\Recovered data 10-03-2017 at 23_21_37\NTFS 1\Documentos\Alfredo\2018\IESTP San Pedro\LP_5\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+F:\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+F:\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+F:\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+F:\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojResolveAssemblyReference.cache
+F:\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Form1.resources
+F:\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+F:\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.Cache
+F:\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+F:\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+F:\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\Google.Protobuf.dll
+F:\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\Renci.SshNet.dll
+F:\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\BouncyCastle.Crypto.dll
+F:\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\MySql.Data.xml
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Form1.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.Cache
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\PCA-13\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Producto.resources
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Form1.resources
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Producto.resources
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.Cache
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Login.resources
+C:\Users\PCA-16\Downloads\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pedido.resources
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\MySql.Data.dll
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\MySql.Data.xml
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Form1.resources
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Login.resources
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pedido.resources
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Producto.resources
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+C:\Users\MuGiBoy\Videos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.Cache
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Factura.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Form1.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Login.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pedido.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Producto.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.Cache
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\PCA-13\Downloads\SistemaBiblioteca 3.0\SistemaBiblioteca\bin\Debug\MySql.Data.xml
+F:\SistemaBiblioteca 4.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+F:\SistemaBiblioteca 4.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+F:\SistemaBiblioteca 4.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\bin\Debug\MySql.Data.dll
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\bin\Debug\MySql.Data.xml
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojResolveAssemblyReference.cache
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Factura.resources
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Form1.resources
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Login.resources
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pedido.resources
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Producto.resources
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+F:\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.Cache
+F:\Cuarto\SistemaBiblioteca 5.0\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+F:\Cuarto\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+F:\Cuarto\SistemaBiblioteca 5.0\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
